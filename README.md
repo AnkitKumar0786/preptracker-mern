@@ -3,12 +3,12 @@
 
 ## 🛠️ Tech Stack :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Gemini AI" alt="Gemini AI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" title="Google Gemini AI" alt="Gemini AI" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -86,4 +86,12 @@ npm run dev
 ---
 ## 📷 Screenshots
 
-...screenshots...
+<img width="1917" height="915" alt="Screenshot 2026-06-22 133728" src="https://github.com/user-attachments/assets/5caf72c1-d9a2-411d-bfa8-92d861d1e107" />
+<img width="1913" height="926" alt="Screenshot 2026-06-22 133808" src="https://github.com/user-attachments/assets/3b8f1f11-108a-4be1-a219-811ccf4093e4" />
+<img width="1917" height="917" alt="Screenshot 2026-06-22 133832" src="https://github.com/user-attachments/assets/637d945a-45a6-485f-b647-fbeded85fccf" />
+<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/2b623dde-6be3-4a69-9521-5061c16a76d2" />
+
+<img width="1910" height="922" alt="Screenshot 2026-06-22 133907" src="https://github.com/user-attachments/assets/4f73f1d7-fd57-44f7-bb84-b53a4182febc" />
+<img width="1918" height="918" alt="Screenshot 2026-06-22 133922" src="https://github.com/user-attachments/assets/37d07729-cc03-48fc-9e0f-b40fbd79ccd7" />
+
+<img width="1918" height="920" alt="Screenshot 2026-06-22 133940" src="https://github.com/user-attachments/assets/cabc804d-8453-4c0e-a492-8b2d62a6afc8" />
