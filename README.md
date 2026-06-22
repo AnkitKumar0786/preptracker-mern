@@ -23,10 +23,10 @@
 ---
 ## 🔥 Features
 1. **Secure Authentication:** Complete Login and Registration system with encrypted passwords.
-2. **AI Notes Generator:** Automatically generate structured DSA notes by simply typing a topic name, powered by Google Gemini.
-3. **Goal Dashboard:** Set, edit, and track interactive target milestones (e.g., LeetCode problems solved, Codeforces ratings) with visual progress bars.
-4. **Notes Management:** Full CRUD operations to create, read, update, and delete personalized study materials with Markdown support.
-5. **Responsive Design:** A fully mobile-friendly experience featuring a dynamic hamburger navigation menu and clean UI.
+2. **Problem Tracker:** Log, categorize, and track daily Data Structures and Algorithms (DSA) problems by difficulty, platform (e.g., LeetCode, Codeforces), and completion status.
+3. **Notes Management:** Full CRUD operations to create, read, update, and delete personalized study materials with Markdown support.
+4. **AI Notes Generator:** Automatically generate structured DSA notes by simply typing a topic name, powered by Google Gemini.
+5. **Goal Dashboard:** Set, edit, and track interactive target milestones (e.g., total problems solved, target ratings) with visual progress bars.
 
 ---
 ## ✏️ Installation and Setup
